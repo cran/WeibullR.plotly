@@ -1,8 +1,8 @@
-1d5b51bb3be729724a344ccb052aa609 *DESCRIPTION
+2a34238a018cbaf03c43a79ce4f9b4de *DESCRIPTION
 3c78a1f762199dd012edc9eb6864bb48 *NAMESPACE
-4d21f20954c3fed914597e44f6572710 *R/plotly_contour.R
-d012d3b2eeefd68e472b3a0b20bc1e04 *R/plotly_wblr.R
-490d78ed243a5410dd19d7d9d05a07d1 *man/figures/unnamed-chunk-2-1.png
+eb36ff80d58720d5da3719cba7e4659d *R/plotly_contour.R
+59142c71eabfc4ea3446bb53afde88bb *R/plotly_wblr.R
+0970552f7df07a16113cc0cba0d7f3b4 *man/figures/unnamed-chunk-2-1.png
 5dd4a00e43fac94475aa9e98b3edd163 *man/figures/unnamed-chunk-3-1.png
 f5a4265ab0d18882b32ff28b78507843 *man/figures/unnamed-chunk-4-1.png
 f04f753e007a0b6c29885e8ef87f4f8c *man/figures/unnamed-chunk-5-1.png
