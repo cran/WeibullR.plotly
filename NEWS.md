@@ -1,4 +1,9 @@
-# WeibullR.plotly 0.2.0
+# WeibullR.plotly 0.2.1
+
+## Minor improvements and fixes
+* Add unit tests
+* Update webpage
+* Update contact information
 
 # WeibullR.plotly 0.2
 
